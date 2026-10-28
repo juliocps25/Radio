@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio</string>
+    <string name="choose_country_title">Choisissez votre pays</string>
+    <string name="countries_with_stations">%1$d pays avec des stations</string>
+    <string name="search_country">Rechercher un pays</string>
+    <string name="no_countries_match">Aucun pays ne correspond à votre recherche</string>
+    <plurals name="stations_count">
+        <item quantity="one">%1$d station</item>
+        <item quantity="other">%1$d stations</item>
+    </plurals>
+
+    <string name="search_clear">Effacer la recherche</string>
+    <string name="error_title">Chargement impossible</string>
+    <string name="error_connection">Vérifiez votre connexion internet et réessayez.</string>
+    <string name="retry">Réessayer</string>
+
+    <string name="change_country">Changer de pays</string>
+    <string name="language_subtitle">Langue : %1$s</string>
+    <string name="search_station">Rechercher une station ou un genre</string>
+    <string name="tab_all">Toutes</string>
+    <string name="tab_favorites">Favorites (%1$d)</string>
+    <string name="favorites_empty">Pas encore de favoris. Touchez le cœur sur une station.</string>
+    <string name="no_stations_match">Aucune station ne correspond à votre recherche</string>
+    <string name="favorite_add">Ajouter aux favoris</string>
+    <string name="favorite_remove">Retirer des favoris</string>
+
+    <string name="status_connecting">Connexion…</string>
+    <string name="status_playing">Lecture en cours</string>
+    <string name="status_live">En direct</string>
+    <string name="status_paused">En pause</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_play">Lecture</string>
+    <string name="player_stop">Arrêter</string>
+    <string name="error_playback">Impossible de lire cette station</string>
+    <string name="error_player_start">Impossible de démarrer le lecteur</string>
+
+    <string name="language_title">Langue de l\'application</string>
+    <string name="language_auto">Automatique (selon le pays)</string>
+    <string name="close">Fermer</string>
+
+    <string name="sleep_timer">Minuterie de sommeil</string>
+    <string name="sleep_timer_off">Désactivée</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="sleep_timer_remaining">Arrêt dans %1$s</string>
+</resources>

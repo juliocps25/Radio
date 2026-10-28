@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio</string>
+    <string name="countries_with_stations">%1$d paesi con stazioni</string>
+    <string name="search_country">Cerca paese</string>
+    <string name="no_countries_match">Nessun paese corrisponde alla ricerca</string>
+    <plurals name="stations_count">
+        <item quantity="one">%1$d stazione</item>
+        <item quantity="other">%1$d stazioni</item>
+    </plurals>
+
+    <string name="search_clear">Cancella ricerca</string>
+    <string name="error_title">Impossibile caricare</string>
+    <string name="error_connection">Controlla la connessione a internet e riprova.</string>
+    <string name="retry">Riprova</string>
+
+    <string name="change_country">Cambia paese</string>
+    <string name="language_subtitle">Lingua: %1$s</string>
+    <string name="search_station">Cerca stazione o genere</string>
+    <string name="tab_all">Tutte</string>
+    <string name="tab_favorites">Preferite (%1$d)</string>
+    <string name="favorites_empty">Nessuna preferita. Tocca il cuore su una stazione.</string>
+    <string name="no_stations_match">Nessuna stazione corrisponde alla ricerca</string>
+    <string name="favorite_add">Aggiungi alle preferite</string>
+    <string name="favorite_remove">Rimuovi dalle preferite</string>
+
+    <string name="status_connecting">Connessione…</string>
+    <string name="status_playing">In riproduzione</string>
+    <string name="status_live">In diretta</string>
+    <string name="status_paused">In pausa</string>
+    <string name="player_pause">Pausa</string>
+    <string name="player_play">Riproduci</string>
+    <string name="player_stop">Interrompi</string>
+    <string name="error_playback">Impossibile riprodurre questa stazione</string>
+    <string name="error_player_start">Impossibile avviare il lettore</string>
+
+    <string name="language_title">Lingua dell\'app</string>
+    <string name="language_auto">Automatica (in base al paese)</string>
+    <string name="close">Chiudi</string>
+
+    <string name="sleep_timer">Timer di spegnimento</string>
+    <string name="sleep_timer_off">Disattivato</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="sleep_timer_remaining">Si ferma tra %1$s</string>
+</resources>

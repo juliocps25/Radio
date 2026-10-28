@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio</string>
+    <string name="choose_country_title">Elige tu país</string>
+    <string name="countries_with_stations">%1$d países con emisoras</string>
+    <string name="search_country">Buscar país</string>
+    <string name="no_countries_match">No hay países que coincidan con tu búsqueda</string>
+    <plurals name="stations_count">
+        <item quantity="one">%1$d emisora</item>
+        <item quantity="other">%1$d emisoras</item>
+    </plurals>
+
+    <string name="search_clear">Borrar búsqueda</string>
+    <string name="error_title">No se pudo cargar</string>
+    <string name="error_connection">Revisa tu conexión a internet e inténtalo de nuevo.</string>
+    <string name="retry">Reintentar</string>
+
+    <string name="change_country">Cambiar país</string>
+    <string name="language_subtitle">Idioma: %1$s</string>
+    <string name="search_station">Buscar emisora o género</string>
+    <string name="tab_all">Todas</string>
+    <string name="tab_favorites">Favoritas (%1$d)</string>
+    <string name="favorites_empty">Aún no tienes favoritas. Toca el corazón en cualquier emisora.</string>
+    <string name="no_stations_match">No hay emisoras que coincidan con tu búsqueda</string>
+    <string name="favorite_add">Agregar a favoritas</string>
+    <string name="favorite_remove">Quitar de favoritas</string>
+
+    <string name="status_connecting">Conectando…</string>
+    <string name="status_playing">Reproduciendo</string>
+    <string name="status_live">En vivo</string>
+    <string name="status_paused">En pausa</string>
+    <string name="player_pause">Pausar</string>
+    <string name="player_play">Reproducir</string>
+    <string name="player_stop">Detener</string>
+    <string name="error_playback">No se pudo reproducir esta emisora</string>
+    <string name="error_player_start">No se pudo iniciar el reproductor</string>
+
+    <string name="language_title">Idioma de la app</string>
+    <string name="language_auto">Automático (según el país)</string>
+    <string name="close">Cerrar</string>
+
+    <string name="sleep_timer">Temporizador de apagado</string>
+    <string name="sleep_timer_off">Desactivado</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="sleep_timer_remaining">Se detendrá en %1$s</string>
+</resources>

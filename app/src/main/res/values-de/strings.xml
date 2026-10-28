@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio</string>
+    <string name="choose_country_title">Wähle dein Land</string>
+    <string name="countries_with_stations">%1$d Länder mit Sendern</string>
+    <string name="search_country">Land suchen</string>
+    <string name="no_countries_match">Keine Länder gefunden</string>
+    <plurals name="stations_count">
+        <item quantity="one">%1$d Sender</item>
+        <item quantity="other">%1$d Sender</item>
+    </plurals>
+
+    <string name="search_clear">Suche löschen</string>
+    <string name="error_title">Laden fehlgeschlagen</string>
+    <string name="error_connection">Prüfe deine Internetverbindung und versuche es erneut.</string>
+    <string name="retry">Erneut versuchen</string>
+
+    <string name="change_country">Land ändern</string>
+    <string name="language_subtitle">Sprache: %1$s</string>
+    <string name="search_station">Sender oder Genre suchen</string>
+    <string name="tab_all">Alle</string>
+    <string name="tab_favorites">Favoriten (%1$d)</string>
+    <string name="favorites_empty">Noch keine Favoriten. Tippe bei einem Sender auf das Herz.</string>
+    <string name="no_stations_match">Keine Sender gefunden</string>
+    <string name="favorite_add">Zu Favoriten hinzufügen</string>
+    <string name="favorite_remove">Aus Favoriten entfernen</string>
+
+    <string name="status_connecting">Verbinde…</string>
+    <string name="status_playing">Wiedergabe</string>
+    <string name="status_live">Live</string>
+    <string name="status_paused">Pausiert</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_play">Wiedergabe</string>
+    <string name="player_stop">Stopp</string>
+    <string name="error_playback">Dieser Sender kann nicht abgespielt werden</string>
+    <string name="error_player_start">Der Player konnte nicht gestartet werden</string>
+
+    <string name="language_title">App-Sprache</string>
+    <string name="language_auto">Automatisch (nach Land)</string>
+    <string name="close">Schließen</string>
+
+    <string name="sleep_timer">Schlaftimer</string>
+    <string name="sleep_timer_off">Aus</string>
+    <string name="minutes_short">%1$d Min.</string>
+    <string name="sleep_timer_remaining">Stoppt in %1$s</string>
+</resources>
