@@ -24,5 +24,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Radio"
+rootProject.name = "GeoRadio"
 include(":app")

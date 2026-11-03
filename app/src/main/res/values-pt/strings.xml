@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Radio</string>
+    <string name="app_name">GeoRadio</string>
     <string name="choose_country_title">Escolha seu país</string>
     <string name="countries_with_stations">%1$d países com estações</string>
     <string name="search_country">Buscar país</string>
